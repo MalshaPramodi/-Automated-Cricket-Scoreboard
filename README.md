@@ -13,4 +13,4 @@ Efficient Data Management: Implements arrays to manage players, scores, and game
 C++ Programming Language
 Object-Oriented Programming (OOP)
 
-![Alt](scoreboard_images/1.png)
+![Alt](scoreboard_images/3.png)
